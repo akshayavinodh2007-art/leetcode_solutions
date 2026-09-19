@@ -1,6 +1,6 @@
 # 📝 448. Find All Numbers Disappeared in an Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+🔗 [Problem Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/?envType=problem-list-v2&envId=array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
