@@ -5,7 +5,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(nums[i]==nums[j]){
-                    if(abs(i-j)==k)
+                    if(abs(i-j)<=k)
                     return true;
                 }
             }
