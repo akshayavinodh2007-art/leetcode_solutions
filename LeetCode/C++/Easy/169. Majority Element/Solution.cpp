@@ -1,16 +1,17 @@
+#include <algorithm>
+using namespace std;
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        std::unordered_map<int,int>counts;
-        int max=0;
-        int maj=0;
-        for(int num:nums){
-            counts[num]++;
-            if(max<counts[num]){
-            max=counts[num];
-            maj=num;}
+        unordered_map<int,int>maj_element;
+        set<int>a(nums.begin(),nums.end());
+        for(int x: a){
+             maj_element[x]=count(nums.begin(),nums.end(),x);
         }
-        return maj;
-        
+        for(int x : a){
+            if(maj_element[x]>nums.size()/2)
+            return x;
+        }
+        return -1;
     }
 };
