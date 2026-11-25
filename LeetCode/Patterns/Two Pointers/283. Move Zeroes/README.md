@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/move-zeroes/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
 ### 💡 Tags
 Array, Two Pointers
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 19.5 MB
+- **Memory:** 23.6 MB
 
 ---
 

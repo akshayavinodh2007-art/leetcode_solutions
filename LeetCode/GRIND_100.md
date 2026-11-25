@@ -13,7 +13,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Two Sum](./C++/Easy/1. Two Sum/)
 - [ ] 3Sum
 - [ ] Container With Most Water
-- [x] [Move Zeroes](./C/Easy/283. Move Zeroes/)
+- [x] [Move Zeroes](./C++/Easy/283. Move Zeroes/)
 - [ ] Sort Colors
 - [ ] Product of Array Except Self
 - [ ] Next Permutation
