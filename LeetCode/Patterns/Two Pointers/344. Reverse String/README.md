@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/reverse-string/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
 ### 💡 Tags
 Two Pointers, String
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 18 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
