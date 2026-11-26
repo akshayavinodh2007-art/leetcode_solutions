@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Two Pointers, String
 
 ### 🚀 Performance
-- **Runtime:** 2 ms
-- **Memory:** 8.8 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 

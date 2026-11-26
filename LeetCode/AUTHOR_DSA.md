@@ -188,7 +188,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Keyboard Row
 - [ ] Delete Columns to Make Sorted
 - [ ] Reverse String II
-- [x] [Valid Palindrome](./C/Easy/125. Valid Palindrome/)
+- [x] [Valid Palindrome](./Python/Easy/125. Valid Palindrome/)
 - [ ] Rotate String
 - [ ] First Palindromic String
 - [ ] Reverse Only Letters
