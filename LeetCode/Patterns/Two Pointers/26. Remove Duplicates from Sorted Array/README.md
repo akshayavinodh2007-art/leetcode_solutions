@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Two Pointers
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 12.5 MB
+- **Runtime:** 3 ms
+- **Memory:** 20.5 MB
 
 ---
 
